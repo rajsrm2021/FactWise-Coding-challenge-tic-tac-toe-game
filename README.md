@@ -18,4 +18,6 @@ Developed TIC-TAC-TOI game as a coding exercise for Factwise. This project utili
 4. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
 5. If all nine squares are filled and no player has three in a row, the game is considered a draw.
 
-## Project Structure
+## Link to play game
+
+[https://tic-tac-toe-game-jet-delta.vercel.app/]
